@@ -3,7 +3,7 @@ entries:
   alertmanager-bot:
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2023-07-16T11:55:16.234267+03:00"
+    created: "2023-10-25T02:39:03.041422+03:00"
     description: A Helm chart for Kubernetes
     digest: 31fa9217282a253610594fdd571ac359d9e774df0fdfe7ad02edca15e2a4ba58
     name: alertmanager-bot
@@ -11,4 +11,15 @@ entries:
     urls:
     - https://sputnik-systems.github.io/helm-charts/alertmanager-bot-0.1.1.tgz
     version: 0.1.1
-generated: "2023-07-16T11:55:16.23302+03:00"
+  werf-synchronization:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-10-25T02:39:03.04183+03:00"
+    description: A Helm chart for Kubernetes
+    digest: 0f32984a0d7e0f369f8c5d54a8a7130695063e62320a09b7eb0c70a95e18cff6
+    name: werf-synchronization
+    type: application
+    urls:
+    - https://sputnik-systems.github.io/helm-charts/werf-synchronization-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-10-25T02:39:03.040835+03:00"
